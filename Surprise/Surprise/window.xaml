@@ -7,7 +7,20 @@
         mc:Ignorable="d"
         Title="window" Height="450" Width="800">
     <Grid Background="#FFABC2DC">
-        <Image x:Name="imgBox" HorizontalAlignment="Left" Height="255" Margin="81,82,0,0" VerticalAlignment="Top" Width="241"/>
-        <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Height="274" Margin="363,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="405" Background="White"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="31*"/>
+            <RowDefinition Height="29*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="imgBox" HorizontalAlignment="Left" Height="378" Margin="22,5,0,0" VerticalAlignment="Top" Width="332" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.317"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Height="274" Margin="363,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="405" Background="White" Grid.RowSpan="2"/>
     </Grid>
 </Window>
