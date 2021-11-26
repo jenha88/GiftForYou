@@ -23,10 +23,10 @@ namespace Surprise
         {
             InitializeComponent();
         }
-        public void SetupWindow(forYou booboo)
+        public void SetupWindow(forYou tim)
         {
-            imgBox.Source = new BitmapImage(new Uri(booboo.img));
-            TextBlock.Text = booboo.desc;
+            imgBox.Source = new BitmapImage(new Uri(tim.img));
+            TextBlock.Text = tim.desc;
         }
     }
 }

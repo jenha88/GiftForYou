@@ -10,7 +10,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="https://livewallp.com/wp-content/uploads/2021/04/Doggie-Corgi.jpg"/>
         </Grid.Background>
-        <ListBox x:Name="ListBox" HorizontalAlignment="Left" Height="223" Margin="348,82,0,0" VerticalAlignment="Top" Width="397" SelectionChanged="ListBox_SelectionChanged">
+        <ListBox x:Name="ListBox" HorizontalAlignment="Left" Height="143" Margin="435,92,0,0" VerticalAlignment="Top" Width="201" SelectionChanged="ListBox_SelectionChanged" Foreground="White">
             <ListBox.Background>
                 <SolidColorBrush Color="White" Opacity="0.2"/>
             </ListBox.Background>

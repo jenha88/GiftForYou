@@ -1,42 +1,74 @@
 ﻿[
   {
-    "subject": "1",
+    "subject": "Open Me First",
     "messageSelect": [
       {
-        "message": "Hi",
-        "img": "C:\\Users\\Kimlu\\source\\repos\\jenha88\\Gift\\Surprise\\Surprise\\Headshot.jpg",
-        "desc": "This is a desc"
+        "message": "Hello Sir",
+        "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
+        "desc": "Wow you finally graduated!Do you feel accomplish? But welp surprise!(sort of even though you help me with this)BUT here is my final gift I am giving you at least until your birthday! I wanted to give you a gift that is special and what better gift to give you than a gift that is the main source of my pain and suffering into one. So below this message in the combo there are 3 options you have (Happy, Sad, Missing You) whenever you feel these emotions you can click on it and then the message will be automatically generated in the list box with random messages for you. I hope you enjoy I tried my best to give you the best! Congrats on surviving OU and good luck at OU Tulsa :P"
+      }
+   
+    ]
+  },
+  {
+    "subject": "Happy",
+    "messageSelect": [
+      {
+        "message": "☁",
+        "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
+        "desc": "I had to include one of your favorite pictures of me. Some reason despite my messy hair in this one you find this one your favorite and haha got your head in the clouds. Someone seems to be in a cheery mood for you to see this picture hehe. Maybe by this time you have a new favorite, but wouldn't you say this is a nice throwback to good times? I hope you been well and all after working your big boy job (if you have already started) Thank you for moments like this picture for making me feel pretty every now and then."
       },
       {
-        "message": "Hey",
+        "message": "❤",
         "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
-        "desc": "This is a timmy"
+        "desc": "Did I make your heart doki doki here? hehe maybe not you are always someone very hard to impress at times like this. But welp I hope I made you smile just a little bit today. I am still very surprise you end up falling for me. Just thought you would rather have someone else or just do your own thing at times. But hehe I also like you too in the end. I always enjoy our moments together and hopefully we get back to them very soon. Despite you possibly being two hours away. I hope by the time you read this that you enjoy our time together. Whether that may be cuddle or you just sitting on your desk listening to me type this code lol."
       },
       {
-        "message": "Hello",
-        "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
-        "desc": "This is a world"
+        "message": "💐",
+        "img": "https://kpophighindia.com/wp-content/uploads/2021/03/ExE4exBU8AE_snB.jpg",
+        "desc": "Hey look at this nice,cute,pretty picture of IU! I'm glad to somewhat see that you click on here because you are happy. Welp here is an IU picture to make your day even more brighter. Funny how this exact album got us a bit closer to each other as friends.Honestly, this is one of my favorite concepts she has. I would want to do one like this one day! So yeah IU, really is one of the reasons where we are today."
       }
     ]
   },
   {
-    "subject": "2",
+    "subject": "Sad",
     "messageSelect": [
       {
-        "message": "I",
+        "message": "T^T its okay",
         "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
-        "desc": "This is a I"
+        "desc": "I'm sorry to hear that you have a bad day, but look at it this way there is will another day tomorrow for it to be the best day! Don't let this define you in anyway I just hope you take care of yourself after a hard days work. Of course, you know my number and I think almost every social media outlook I have now lol. I would hold you if I was in reach but for now here is a cute picture for you to look at to make you feel better!"
       },
       {
-        "message": "Hate",
+        "message": "it gets",
         "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
-        "desc": "This is a Jenn"
+        "desc": "During the moments, I cried you always held my hand or just hold me. I always felt very comforted and I wish I can do the same for you right now, but its kind of hard HOWEVER there is always Pumpkin or Octo that will be there with you. Also, I am just a call alway unless you happen to be near me somehow. Here is an image that made me happy every time I am looking at it. I think it would make you smile just a bit too. Stay hydrated and I love you and things will be okay."
       },
       {
-        "message": "OU TULSA",
+        "message": "better~",
+        "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
+        "desc": "This is a me"
+      }
+    ]
+  },
+  {
+    "subject": "Missing Someone",
+    "messageSelect": [
+      {
+        "message": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+        "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
+        "desc": "hi, I see you are missing someone for you to already be reading this message. I wonder who it could be? But whoever you are missing I'm sure they are missing you too! So don't be afraid and call them if you can or better yet come to them in person and hug them tight! Here is a picture that would make you feel a bit better or at least laugh a little about it."
+      },
+      {
+        "message": "o(〃＾▽＾〃)o",
+        "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
+        "desc": ""
+      },
+      {
+        "message": "( ´･･)ﾉ(._.`)",
         "img": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/cooper-baby-corgi-dogs-8.jpg",
         "desc": "This is a me"
       }
     ]
   }
+
 ]
