@@ -57,7 +57,7 @@ namespace Surprise
             }
         }
 
-        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void ListBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
             forYou selected = (forYou)ListBox.SelectedItem;
             window win = new window();
