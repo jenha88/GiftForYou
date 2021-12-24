@@ -11,7 +11,7 @@
             <RowDefinition Height="31*"/>
             <RowDefinition Height="29*"/>
         </Grid.RowDefinitions>
-        <Image x:Name="imgBox" HorizontalAlignment="Left" Height="364" Margin="22,19,0,0" VerticalAlignment="Top" Width="309" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+        <Image x:Name="imgBox" HorizontalAlignment="Left" Height="364" Margin="10,29,0,0" VerticalAlignment="Top" Width="309" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -21,6 +21,6 @@
                 </TransformGroup>
             </Image.RenderTransform>
         </Image>
-        <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Height="264" Margin="384,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="384" Background="White" Grid.RowSpan="2"/>
+        <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Height="357" Margin="334,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="436" Background="White" Grid.RowSpan="2" FontSize="17"/>
     </Grid>
 </Window>

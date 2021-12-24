@@ -69,5 +69,26 @@
         "desc": "HEY YOU YEAH YOU! My number is 405-413-#### maybe you should slide into my DMS and find out the last four hehe (let's continue our chaos now hehe)"
       }
     ]
+  },
+  {
+    "subject": "Thoughts for you",
+    "messageSelect": [
+      {
+        "message": "intro",
+        "img": "https://github.com/jenha88/GiftForYou/blob/main/Surprise/Surprise/Screenshot%202021-12-23%20220759.png?raw=true",
+        "desc": "hi sir, if you just open the WPF file then you may have notice this new page. This page is dedciated to things I wanted to say to you (either there wasn't a right moment or just random thoughts I wanted to share) i thought about adding this after our small serious conversation not too long ago.I felt like I wanted to write a few things to show how much I appreciate you and when there is a time when things get rough I hope you go back to this page and remember the things I appreciate you for "
+      },
+      {
+        "message": "<3",
+        "img": "https://github.com/jenha88/GiftForYou/blob/main/Surprise/Surprise/Screenshot%202021-12-23%20220720.png?raw=true",
+        "desc": "hi hi, my thoughts is that I really appreciate the time you take to listen to my problems and are willing to correct your mistakes. I still have a bit of trauma from my last expereince where I was put at fault when the other person was not willing to grow with me and learn from their mistakes. I love how you are willing to grow with me. We are human so for the moment sometimes we get mad or frustrated, but I am just glad we are willing to talk out how we feel and work it out together. This makes me looking forward to the time we make it offical because I know whatever comes in our way I at least know you are willing to sit down and discuss it with me. "
+      },
+      {
+        "message": "（づ￣3￣）づ╭❤️～",
+        "img": "https://github.com/jenha88/GiftForYou/blob/main/Surprise/Surprise/Screenshot%202021-12-23%20220630.png?raw=true",
+        "desc": "This is writen on 12/23/2021.It seems like during this time its your second day of work and you express me how much you hate it. There isn't much I can do but comofrt but I hope by the time you read this you enjoy the times we had together throughout the break and even before. I hope the future treats us right and that everything will be okay. I can't wait to be able to hug you again T^T I really do miss it hence my sort of clinginess lately. I hope you aren't too frustrated I'm sure there is a company out there that is perfect for you! Who knows maybe it will be the company we both work under. I hope you take care of yourself as you're reading this. Of course, you know that I am available whenever you need me. I love you and I am always rooting for you! You can do it! "
+      }
+    ]
   }
+
 ]
